@@ -20,4 +20,4 @@ Gemini.
 Modifiqué los colores de fondo en la interfaz de Login usando mis propios valores RGBA, ajusté el texto de los 3 botones en el GridLayout para que tengan más sentido, y configuré el entorno virtual.
 
 **6. Reflexión personal:** 
-La IA fue una excelente herramienta de apoyo para entender cómo Kivy organiza los widgets mediante Box y Grid Layouts. Me ahorró tiempo y me permitió concentrarme en entender cómo funcionan los eventos (bind y on_press).
+La IA fue una excelente herramienta de apoyo para entender cómo Kivy organiza los widgets mediante Box y Grid Layouts. Me ahorró tiempo y me permitió concentrarme en entender cómo funcionan los eventos (bind y on_press). 
